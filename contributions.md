@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 |  March 4   |  https://github.com/joannakl/ossd/pull/10   |   course website  |   I commented on a pull request pointing out a typo   |
-|   March 4  |  https://github.com/joannakl/ossd/pull/13   |   course website  |   I created a pull request to fix issue of missing images for textbooks   |
+|   March 5  |  https://github.com/joannakl/ossd/pull/15   |   course website  |   I created a pull request to fix issue of missing images for textbooks   |
