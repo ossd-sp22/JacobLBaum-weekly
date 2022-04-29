@@ -27,4 +27,4 @@ Replace the first row with your own contribution.
 |   March 5  |  https://github.com/joannakl/ossd/pull/15   |   course website  |   I created a pull request to fix issue of missing images for textbooks   |
 | April 5 | https://github.com/joannakl/ossd/issues/24 | course-website | I reported an incorrect link for an article |
 | April 24 | https://en.wikipedia.org/w/index.php?target=Jlb981&namespace=all&tagfilter=&start=&end=&title=Special%3AContributions&limit=50 | Wikipedia | I updated the recent acquisitions of NYU on the [Campus of NYU page](https://en.wikipedia.org/wiki/Campus_of_New_York_University) |
-
+| April 29 | https://github.com/alfg/opendrinks/pull/1300 | Open Drinks | I added a new drink to their collection of open sourced drinks|
