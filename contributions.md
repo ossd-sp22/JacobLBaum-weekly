@@ -31,4 +31,4 @@ Replace the first row with your own contribution.
 | May 11 | [All contributions](https://en.wikipedia.org/w/index.php?target=Jlb981&namespace=all&tagfilter=&start=&end=&title=Special%3AContributions&limit=50), [This contribution](https://en.wikipedia.org/w/index.php?title=Kendrick_Lamar&diff=prev&oldid=1087322330) | Wikipedia | I updated the description of Kendrick Lamar's latest music video|
 |May 16| [pull req 1](https://github.com/ossd-sp22/themify/pull/1) | themify | reviewed and merged pull request |
 |May 16| [pull req 2](https://github.com/ossd-sp22/themify/pull/2/) | themify | reviewed and merged pull request |
-
+|May 16| [pull req](https://github.com/ossd-sp22/study-timer/pull/3) | study-timer | created pull request |
